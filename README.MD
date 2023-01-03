@@ -29,7 +29,7 @@ Write a smart contract to automate the entire processes between the three branch
 ### Notes and recommendations
 
 - Write a smart contract for this scenario. You may crate interface for frontend integration (added advantage)
-- Use any blockchain network of your choice: Etheruem, Solana, ETC
+- Use any blockchain network of your choice: Etheruem, Solana, Hyperledger, Polkadot, Polygon e.t.c
 - The languages, frameworks and libraries mentioned are recommendations only, you are free to use whatever you are comfortable with.
 - The project structure and interpretation is up to your decision.
 - You are recommended to use git commits in a logical manner to demonstrate the development progress
